@@ -1,0 +1,4 @@
+/* Copyright information */
+
+This document and its content are copyright of Team16: Andres Cervantes, Bradley Chu, James Guise, Trenton Nguyen, & Taylor Togami - 2020. 
+All rights reserved. 

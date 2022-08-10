@@ -1,0 +1,13 @@
+/* Instructions to install chat */
+For User:
+1. Type tar -zxvf Chat_Alpha.tar.gz
+2. Type cd Chat_Alpha
+3. Type ./bin/server <portnumber> to start the server
+4. Type ./bin/Login <hostname> <portnumber> to launch the client
+
+For Developer:
+1. Type tar -zxvf Chat_Alpha_src.tar.gz
+2. Type cd Chat_Alpha_src
+3. Type make all to make the server and client
+4. Type ./bin/server <portnumber> to start the server
+5. Type ./bin/Login <hostname> <portnumber> to launch the client
