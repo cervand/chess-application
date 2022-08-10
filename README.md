@@ -1,3 +1,5 @@
+Note: This application was built as a team and I do not own it nor made it all.
+
 # Team16
 This is the alpha version of A B C 1 2 free()'s chess game. To install, read the INSTALL.txt included. 
 
