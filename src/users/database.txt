@@ -1,0 +1,4 @@
+//Text based database for storing host information
+// username password IP port
+username passwrod ipaddress portNo
+username2 passwrod2 ipaddress2 portNo2
