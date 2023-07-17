@@ -50,3 +50,9 @@ Bonus Features:
     (unfinished)
 6. User can change their password
     (unfinishd)
+
+
+
+<h1>Sample Screenshot</h1>
+![image](https://github.com/cervand/chess-application/assets/95746489/918cb442-2a37-4729-b8ac-c6e5b08c82cd)
+
