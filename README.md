@@ -7,7 +7,7 @@ Date: 5/31/2020
 
 Purpose: The main purpose of this program is to run a simple game of chess with a chat program to talk with friends. 
 
-Features:
+## Features:
 1. The game follows the offical rules of Chess.     
     (Partially finished)
 2. The program shows a game interface where the player can see the board
@@ -35,7 +35,7 @@ Features:
 13. Provider should check a new user sign-up and accept existing user log-in. Otherwise rejects connection.
     (Completed)
 
-Bonus Features:
+## Bonus Features:
 1. List of all online users
     (Completed)
 2. Viewing who from Friends List is online 
@@ -51,6 +51,6 @@ Bonus Features:
 
 
 
-<h1>Sample Screenshot</h1>
+## Sample Screenshot
 ![image](https://github.com/cervand/chess-application/assets/95746489/918cb442-2a37-4729-b8ac-c6e5b08c82cd)
 
