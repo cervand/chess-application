@@ -52,5 +52,10 @@ Purpose: The main purpose of this program is to run a simple game of chess with 
 
 
 ## Sample Screenshot
-![image](https://github.com/cervand/chess-application/assets/95746489/918cb442-2a37-4729-b8ac-c6e5b08c82cd)
+![image](https://github.com/cervand/chess-application/assets/95746489/1db9f5f0-9eaa-41a8-a2c3-6a5349317621)
 
+![image](https://github.com/cervand/chess-application/assets/95746489/d86b68a0-6648-4d3e-bbe4-a9149d7d7312)
+
+![image](https://github.com/cervand/chess-application/assets/95746489/a104bdfe-f6f0-4b26-9f8c-77b326eff927)
+
+![image](https://github.com/cervand/chess-application/assets/95746489/918cb442-2a37-4729-b8ac-c6e5b08c82cd)
